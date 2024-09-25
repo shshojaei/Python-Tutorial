@@ -4,7 +4,7 @@ Welcome to my Python tutorial repository! This project serves as a personal stud
 
 ## Overview  
 
-This repository contains a collection of Python exercises and examples designed to reinforce my understanding of Python through hands-on practice. Each directory or file within the repository corresponds to different Python topics or projects.  
+This repository contains a collection of Python exercises and examples designed to reinforce my understanding of Python through hands-on practice. Each directory or file within the repository corresponds to different Python topics.  
 
 ## Getting Started  
 
