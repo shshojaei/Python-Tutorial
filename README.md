@@ -1,6 +1,9 @@
 # Python-Tutorial
 
-Welcome to my Python tutorial repository! This project serves as a personal study guide as I revisit and practice Python programming concepts after learning from various resources, including [W3Schools](https://www.w3schools.com/python/).  
+Welcome to my Python tutorial repository! This project serves as a personal study guide as I revisit and practice Python programming concepts after learning from various resources,
+including:
+[W3Schools](https://www.w3schools.com/python/)
+[Python Data Science Handbook.  Essential Tools for Working with Data (2016, O'Reilly Media)](https://www.oreilly.com/library/view/python-data-science/9781491912126/)
 
 ## Overview  
 
